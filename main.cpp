@@ -10,6 +10,7 @@ int main() {
 	cout << "n + 5 =" << n + 5 << endl;
     //integer를 매개변수로 받아 원의 면적을 계산하는 함수의 return 값을 출력하자.
 	//수정
+	//ohmygod
 	cout << area(n);
     return 0;
 }

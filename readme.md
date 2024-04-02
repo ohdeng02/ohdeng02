@@ -4,5 +4,5 @@
 <div align=center>
   
 <!--[![](https://banner.codetree.ai/v1/banner/tnwls5792)](https://www.codetree.ai/profiles/tnwls5792)-->
-![ohdeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohdeng02&theme=blue_navy&show_icons=true&hide=stars)
+[![ohdeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohdeng02&theme=blue_navy&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 </div>

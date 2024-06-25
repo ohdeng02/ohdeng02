@@ -1,6 +1,37 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&text=안녕하세요%20백엔드%20개발자%20오수진입니다%20🙋‍♀️&section=footer&color=auto&fontSize=30&animation=twinkling )
 
 <h> Contact: sujin5792@naver.com </h>
+
+<h2>👨‍💻 Tech Stack  </h2>
+
+<div align=center>
+<div>
+  <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  
+</div>
+
+<div>
+<img alt="RED" src ="https://img.shields.io/badge/elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/> 
+<img alt="RED" src ="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</div>
+</div>
+
+</br>
+<div align=center>
+  
+[![ohdeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohdeng02&theme=blue_navy&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <h2>🎓 Experience</h2>
 
 |소속 및 단체|활동 기간|내용|
@@ -22,25 +53,3 @@
 
 <br/>
 
-<h2>👨‍💻 Tech Skills!  </h2>
-
-<h3>⚒ Backend </h3>
-<div>
-  <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
-  
-</div>
-
-<h2>📝SNS </h2>
-<div>
-<a href="https://github.com/ohdeng02/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-
-</div><br/>
-
-
-<div align=center>
-  
-[![ohdeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohdeng02&theme=blue_navy&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-</div>

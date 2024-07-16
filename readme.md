@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=150&text=도전하는%20백엔드%20개발자입니다%20🙋‍♀️&section=footer&color=CDE4AD&fontSize=30&animation=twinkling )
+![](https://capsule-render.vercel.app/api?type=waving&height=150&text=Hi!%20🙋‍♀️&section=footer&color=CDE4AD&fontSize=30&animation=twinkling )
 
 
 <h> Contact: sujin5792@naver.com </h>

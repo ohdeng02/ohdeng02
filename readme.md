@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=150&text=Hi!%20🙋‍♀️&section=footer&color=CDE4AD&fontSize=30&animation=twinkling )
+![](https://capsule-render.vercel.app/api?type=waving&height=150&text=Introduce🙋‍♀️&section=header&color=CDE4AD&fontSize=30&animation=twinkling )
 
 
 <h> Contact: sujin5792@naver.com </h>

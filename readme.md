@@ -12,7 +12,6 @@
 <img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=for-the-badge&logo=auth0&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
   
